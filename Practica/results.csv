@@ -1,0 +1,170 @@
+os,interpreter,algorithm,data_type,n,time_ms,mem_kb
+Windows,CPython 3.13.7,Bubble,Random,10,0.033,0.188
+Windows,CPython 3.13.7,Selection,Random,10,0.016,0.188
+Windows,CPython 3.13.7,Insertion,Random,10,0.007,0.156
+Windows,CPython 3.13.7,Quick,Random,10,0.016,0.156
+Windows,CPython 3.13.7,Merge,Random,10,0.058,0.258
+Windows,CPython 3.13.7,Heap,Random,10,0.020,0.391
+Windows,CPython 3.13.7,Counting,Random,10,1419.306,5425.020
+Windows,CPython 3.13.7,Radix,Random,10,0.116,0.344
+Windows,CPython 3.13.7,Bucket,Random,10,197.976,4345.766
+Windows,CPython 3.13.7,Built-in sorted,Random,10,0.009,0.148
+Windows,CPython 3.13.7,Built-in list.sort,Random,10,0.006,0.078
+Windows,CPython 3.13.7,Bubble,Random,500,68.096,4.137
+Windows,CPython 3.13.7,Selection,Random,500,57.763,4.137
+Windows,CPython 3.13.7,Insertion,Random,500,31.717,4.043
+Windows,CPython 3.13.7,Quick,Random,500,2.697,4.984
+Windows,CPython 3.13.7,Merge,Random,500,2.014,8.258
+Windows,CPython 3.13.7,Heap,Random,500,3.923,4.387
+Windows,CPython 3.13.7,Counting,Random,500,1786.208,7796.301
+Windows,CPython 3.13.7,Radix,Random,500,5.657,8.277
+Windows,CPython 3.13.7,Bucket,Random,500,207.843,6245.383
+Windows,CPython 3.13.7,Built-in sorted,Random,500,0.043,3.977
+Windows,CPython 3.13.7,Built-in list.sort,Random,500,0.034,3.906
+Windows,CPython 3.13.7,Bubble,Random,1000,415.757,8.074
+Windows,CPython 3.13.7,Selection,Random,1000,187.719,8.074
+Windows,CPython 3.13.7,Insertion,Random,1000,179.254,7.949
+Windows,CPython 3.13.7,Quick,Random,1000,8.053,9.062
+Windows,CPython 3.13.7,Merge,Random,1000,5.419,16.844
+Windows,CPython 3.13.7,Heap,Random,1000,6.700,8.355
+Windows,CPython 3.13.7,Counting,Random,1000,1753.414,7823.191
+Windows,CPython 3.13.7,Radix,Random,1000,16.872,16.152
+Windows,CPython 3.13.7,Bucket,Random,1000,200.023,6274.461
+Windows,CPython 3.13.7,Built-in sorted,Random,1000,0.087,11.750
+Windows,CPython 3.13.7,Built-in list.sort,Random,1000,0.078,11.680
+Windows,CPython 3.13.7,Quick,Random,50000,785.197,393.094
+Windows,CPython 3.13.7,Merge,Random,50000,750.418,861.797
+Windows,CPython 3.13.7,Heap,Random,50000,859.444,391.543
+Windows,CPython 3.13.7,Counting,Random,50000,1861.015,9765.402
+Windows,CPython 3.13.7,Radix,Random,50000,1072.581,781.840
+Windows,CPython 3.13.7,Bucket,Random,50000,294.560,8308.188
+Windows,CPython 3.13.7,Built-in sorted,Random,50000,5.827,585.930
+Windows,CPython 3.13.7,Built-in list.sort,Random,50000,6.792,585.859
+Windows,CPython 3.13.7,Quick,Random,1000000,19691.910,7815.594
+Windows,CPython 3.13.7,Merge,Random,1000000,21725.599,16390.031
+Windows,CPython 3.13.7,Heap,Random,1000000,26485.718,7813.668
+Windows,CPython 3.13.7,Built-in sorted,Random,1000000,208.688,11718.586
+Windows,CPython 3.13.7,Built-in list.sort,Random,1000000,198.676,11718.516
+Windows,CPython 3.13.7,Bubble,Sorted,10,0.040,0.188
+Windows,CPython 3.13.7,Selection,Sorted,10,0.022,0.188
+Windows,CPython 3.13.7,Insertion,Sorted,10,0.010,0.156
+Windows,CPython 3.13.7,Merge,Sorted,10,0.059,0.289
+Windows,CPython 3.13.7,Heap,Sorted,10,0.023,0.391
+Windows,CPython 3.13.7,Counting,Sorted,10,1325.146,5934.129
+Windows,CPython 3.13.7,Radix,Sorted,10,0.100,0.344
+Windows,CPython 3.13.7,Bucket,Sorted,10,280.329,4767.953
+Windows,CPython 3.13.7,Built-in sorted,Sorted,10,0.006,0.148
+Windows,CPython 3.13.7,Built-in list.sort,Sorted,10,0.004,0.078
+Windows,CPython 3.13.7,Bubble,Sorted,500,26.935,4.137
+Windows,CPython 3.13.7,Selection,Sorted,500,38.758,4.137
+Windows,CPython 3.13.7,Insertion,Sorted,500,0.354,4.043
+Windows,CPython 3.13.7,Merge,Sorted,500,1.509,9.797
+Windows,CPython 3.13.7,Heap,Sorted,500,2.404,4.387
+Windows,CPython 3.13.7,Counting,Sorted,500,1763.743,7789.152
+Windows,CPython 3.13.7,Radix,Sorted,500,5.618,8.277
+Windows,CPython 3.13.7,Bucket,Sorted,500,214.192,6240.320
+Windows,CPython 3.13.7,Built-in sorted,Sorted,500,0.025,3.977
+Windows,CPython 3.13.7,Built-in list.sort,Sorted,500,0.006,3.906
+Windows,CPython 3.13.7,Bubble,Sorted,1000,250.761,8.074
+Windows,CPython 3.13.7,Selection,Sorted,1000,185.404,8.074
+Windows,CPython 3.13.7,Insertion,Sorted,1000,0.947,7.949
+Windows,CPython 3.13.7,Merge,Sorted,1000,3.676,19.594
+Windows,CPython 3.13.7,Heap,Sorted,1000,7.110,8.355
+Windows,CPython 3.13.7,Counting,Sorted,1000,1753.644,7827.629
+Windows,CPython 3.13.7,Radix,Sorted,1000,16.802,16.152
+Windows,CPython 3.13.7,Bucket,Sorted,1000,194.022,6277.398
+Windows,CPython 3.13.7,Built-in sorted,Sorted,1000,0.018,7.883
+Windows,CPython 3.13.7,Built-in list.sort,Sorted,1000,0.008,7.812
+Windows,CPython 3.13.7,Merge,Sorted,50000,423.080,976.625
+Windows,CPython 3.13.7,Heap,Sorted,50000,898.191,391.543
+Windows,CPython 3.13.7,Counting,Sorted,50000,1828.065,9765.160
+Windows,CPython 3.13.7,Radix,Sorted,50000,1063.573,781.840
+Windows,CPython 3.13.7,Bucket,Sorted,50000,287.109,8301.914
+Windows,CPython 3.13.7,Built-in sorted,Sorted,50000,0.506,390.695
+Windows,CPython 3.13.7,Built-in list.sort,Sorted,50000,0.436,390.625
+Windows,CPython 3.13.7,Merge,Sorted,1000000,12887.967,19531.312
+Windows,CPython 3.13.7,Heap,Sorted,1000000,26264.287,7813.668
+Windows,CPython 3.13.7,Built-in sorted,Sorted,1000000,55.471,7812.570
+Windows,CPython 3.13.7,Built-in list.sort,Sorted,1000000,51.665,7812.500
+Windows,CPython 3.13.7,Bubble,Reversed,10,0.055,0.188
+Windows,CPython 3.13.7,Selection,Reversed,10,0.021,0.188
+Windows,CPython 3.13.7,Insertion,Reversed,10,0.010,0.156
+Windows,CPython 3.13.7,Merge,Reversed,10,0.051,0.289
+Windows,CPython 3.13.7,Heap,Reversed,10,0.015,0.391
+Windows,CPython 3.13.7,Counting,Reversed,10,1540.956,6821.527
+Windows,CPython 3.13.7,Radix,Reversed,10,0.187,0.344
+Windows,CPython 3.13.7,Bucket,Reversed,10,305.814,5466.344
+Windows,CPython 3.13.7,Built-in sorted,Reversed,10,0.006,0.148
+Windows,CPython 3.13.7,Built-in list.sort,Reversed,10,0.003,0.078
+Windows,CPython 3.13.7,Bubble,Reversed,500,59.224,4.137
+Windows,CPython 3.13.7,Selection,Reversed,500,38.706,4.137
+Windows,CPython 3.13.7,Insertion,Reversed,500,32.088,4.043
+Windows,CPython 3.13.7,Merge,Reversed,500,1.520,9.797
+Windows,CPython 3.13.7,Heap,Reversed,500,1.570,4.387
+Windows,CPython 3.13.7,Counting,Reversed,500,1728.356,7817.121
+Windows,CPython 3.13.7,Radix,Reversed,500,5.543,8.277
+Windows,CPython 3.13.7,Bucket,Reversed,500,194.992,6259.953
+Windows,CPython 3.13.7,Built-in sorted,Reversed,500,0.010,3.977
+Windows,CPython 3.13.7,Built-in list.sort,Reversed,500,0.007,3.906
+Windows,CPython 3.13.7,Bubble,Reversed,1000,504.094,8.074
+Windows,CPython 3.13.7,Selection,Reversed,1000,232.570,8.074
+Windows,CPython 3.13.7,Insertion,Reversed,1000,266.738,7.949
+Windows,CPython 3.13.7,Merge,Reversed,1000,3.678,19.594
+Windows,CPython 3.13.7,Heap,Reversed,1000,5.202,8.355
+Windows,CPython 3.13.7,Counting,Reversed,1000,1760.207,7841.277
+Windows,CPython 3.13.7,Radix,Reversed,1000,15.811,16.152
+Windows,CPython 3.13.7,Bucket,Reversed,1000,195.695,6287.094
+Windows,CPython 3.13.7,Built-in sorted,Reversed,1000,0.014,7.883
+Windows,CPython 3.13.7,Built-in list.sort,Reversed,1000,0.016,7.812
+Windows,CPython 3.13.7,Merge,Reversed,50000,426.661,976.625
+Windows,CPython 3.13.7,Heap,Reversed,50000,773.631,391.543
+Windows,CPython 3.13.7,Counting,Reversed,50000,1835.476,9765.449
+Windows,CPython 3.13.7,Radix,Reversed,50000,1060.651,781.840
+Windows,CPython 3.13.7,Bucket,Reversed,50000,290.105,8271.430
+Windows,CPython 3.13.7,Built-in sorted,Reversed,50000,0.567,390.695
+Windows,CPython 3.13.7,Built-in list.sort,Reversed,50000,0.446,390.625
+Windows,CPython 3.13.7,Merge,Reversed,1000000,12892.949,19531.297
+Windows,CPython 3.13.7,Heap,Reversed,1000000,24190.442,7813.668
+Windows,CPython 3.13.7,Built-in sorted,Reversed,1000000,65.086,7812.570
+Windows,CPython 3.13.7,Built-in list.sort,Reversed,1000000,60.132,7812.500
+Windows,CPython 3.13.7,Bubble,Almost Sorted,10,0.025,0.188
+Windows,CPython 3.13.7,Selection,Almost Sorted,10,0.018,0.188
+Windows,CPython 3.13.7,Insertion,Almost Sorted,10,0.007,0.156
+Windows,CPython 3.13.7,Merge,Almost Sorted,10,0.049,0.289
+Windows,CPython 3.13.7,Heap,Almost Sorted,10,0.022,0.391
+Windows,CPython 3.13.7,Counting,Almost Sorted,10,1500.460,6778.855
+Windows,CPython 3.13.7,Radix,Almost Sorted,10,0.117,0.344
+Windows,CPython 3.13.7,Bucket,Almost Sorted,10,299.557,5436.461
+Windows,CPython 3.13.7,Built-in sorted,Almost Sorted,10,0.007,0.148
+Windows,CPython 3.13.7,Built-in list.sort,Almost Sorted,10,0.004,0.078
+Windows,CPython 3.13.7,Bubble,Almost Sorted,500,31.262,4.137
+Windows,CPython 3.13.7,Selection,Almost Sorted,500,40.705,4.137
+Windows,CPython 3.13.7,Insertion,Almost Sorted,500,4.650,4.043
+Windows,CPython 3.13.7,Merge,Almost Sorted,500,1.782,9.023
+Windows,CPython 3.13.7,Heap,Almost Sorted,500,2.863,4.387
+Windows,CPython 3.13.7,Counting,Almost Sorted,500,1731.391,7795.207
+Windows,CPython 3.13.7,Radix,Almost Sorted,500,5.624,8.277
+Windows,CPython 3.13.7,Bucket,Almost Sorted,500,202.109,6244.641
+Windows,CPython 3.13.7,Built-in sorted,Almost Sorted,500,0.022,3.977
+Windows,CPython 3.13.7,Built-in list.sort,Almost Sorted,500,0.026,3.906
+Windows,CPython 3.13.7,Bubble,Almost Sorted,1000,245.281,8.074
+Windows,CPython 3.13.7,Selection,Almost Sorted,1000,184.778,8.074
+Windows,CPython 3.13.7,Insertion,Almost Sorted,1000,24.878,7.949
+Windows,CPython 3.13.7,Merge,Almost Sorted,1000,4.511,16.969
+Windows,CPython 3.13.7,Heap,Almost Sorted,1000,6.768,8.355
+Windows,CPython 3.13.7,Counting,Almost Sorted,1000,1816.520,7839.504
+Windows,CPython 3.13.7,Radix,Almost Sorted,1000,15.667,16.152
+Windows,CPython 3.13.7,Bucket,Almost Sorted,1000,202.543,6285.859
+Windows,CPython 3.13.7,Built-in sorted,Almost Sorted,1000,0.052,11.602
+Windows,CPython 3.13.7,Built-in list.sort,Almost Sorted,1000,0.045,11.531
+Windows,CPython 3.13.7,Merge,Almost Sorted,50000,708.287,861.781
+Windows,CPython 3.13.7,Heap,Almost Sorted,50000,901.764,391.543
+Windows,CPython 3.13.7,Counting,Almost Sorted,50000,1873.166,9765.270
+Windows,CPython 3.13.7,Radix,Almost Sorted,50000,1052.573,781.840
+Windows,CPython 3.13.7,Bucket,Almost Sorted,50000,291.833,8298.594
+Windows,CPython 3.13.7,Built-in sorted,Almost Sorted,50000,2.095,585.961
+Windows,CPython 3.13.7,Built-in list.sort,Almost Sorted,50000,2.002,585.891
+Windows,CPython 3.13.7,Merge,Almost Sorted,1000000,21957.582,16390.367
+Windows,CPython 3.13.7,Heap,Almost Sorted,1000000,27244.491,7813.668
+Windows,CPython 3.13.7,Built-in sorted,Almost Sorted,1000000,299.891,11718.477
+Windows,CPython 3.13.7,Built-in list.sort,Almost Sorted,1000000,204.089,11718.406
