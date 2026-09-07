@@ -114,23 +114,7 @@
 | Win | PyPy | Selection | 0.020 / N/A | 0.261 / N/A | 0.984 / N/A | N/A / N/A | N/A / N/A |
 
 
-
-## 3. Графики CPython
-
-![Случайные данные](img/random_time.png)
-![Отсортированные данные](img/sorted_time.png)
-![Обратный порядок](img/reversed_time.png)
-![Почти отсортированные данные](img/almost_sorted_time.png)
-
-### Графики PyPy
-
-![PyPy Random](img/pypy_random_time.png)
-![PyPy Sorted](img/pypy_sorted_time.png)
-![PyPy Reversed](img/pypy_reversed_time.png)
-![PyPy Almost Sorted](img/pypy_almost_sorted_time.png)
-
-
-## 4. Выводы
+## 3. Выводы
 
 * **Квадратичные алгоритмы (Bubble, Selection, Insertion):** Демонстрируют экспоненциальный рост времени выполнения. Уже при размере массива $N=1000$ задержки становятся заметными на глаз, а при больших объёмах данных их использование становится практически неприемлемым.
 
@@ -142,7 +126,7 @@
 
 
 
-## 5. Ограничения и проблемы
+## 4. Ограничения и проблемы
 
 * **Отсутствие замеров памяти для PyPy:** Модуль `tracemalloc` не поддерживается в PyPy из-за отсутствия реализации `_tracemalloc`, поэтому все значения в колонке `Memory_KB` для этого интерпретатора отмечены как `N/A`.
 
